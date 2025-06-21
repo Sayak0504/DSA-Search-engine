@@ -48,6 +48,7 @@ Environment and dependency management to ensure reproducibility and smooth scien
 
 ## Directory Structure
 
+```
 AZ-Hackathon/
 ├── LC Data/
 │   ├── final_data.txt
@@ -63,6 +64,7 @@ AZ-Hackathon/
 ├── setup.bat
 ├── sample.html
 └── README.md
+```
 
 
 ## Files
